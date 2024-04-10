@@ -1,4 +1,5 @@
 ![RealWorld Example Applications](media/realworld-dual-mode.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Feryn-muetzel%2Frealworld-playground.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Feryn-muetzel%2Frealworld-playground?ref=badge_shield)
 
 <p align="center" style="margin-top: 30px;">
 <img src="media/stacks_hr.gif"  />
@@ -51,3 +52,7 @@ Gérôme is a Software Engineer at Sfeir. He's an open-source enthusiast.<br /><
 Manuel is an independent Software Engineer, creator of the [Layr framework](https://layrjs.com) and the [CodebaseShow website](https://codebase.show/).<br /><br />
 
 [![Brought to you by Thinkster](media/end.png)](https://thinkster.io)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Feryn-muetzel%2Frealworld-playground.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Feryn-muetzel%2Frealworld-playground?ref=badge_large)
