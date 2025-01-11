@@ -198,7 +198,7 @@
     "install": "^0.13.0",
     "jsonwebtoken": "^9.0.2",
     "marked": "^9.1.2",
-    "next": "14.0.4",
+    "next": "14.2.21",
     "playwright": "^1.32.1",
     "prism-react-renderer": "^2.1.0",
     "react": "^18.2.0",
