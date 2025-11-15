@@ -180,7 +180,7 @@
     "@angular/platform-browser-dynamic": "~16.2.0",
     "@angular/router": "~16.2.0",
     "@docusaurus/core": "2.4.3",
-    "@docusaurus/preset-classic": "2.4.3",
+    "@docusaurus/preset-classic": "3.5.0",
     "@mdx-js/react": "^3.0.0",
     "@ngneat/falso": "^7.1.1",
     "@previewjs/config-helper-nextjs": "^1.0.23",
